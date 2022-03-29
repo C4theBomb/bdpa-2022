@@ -1,0 +1,22 @@
+{
+    "name": "bdpa-2022",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/C4theBomb/bdpa-2022.git"
+    },
+    "author": "C4 Patino",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/C4theBomb/bdpa-2022/issues"
+    },
+    "homepage": "https://github.com/C4theBomb/bdpa-2022#readme",
+    "workspaces": [
+        "week1"
+    ]
+}
